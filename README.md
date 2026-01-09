@@ -1,5 +1,4 @@
 # trilha-de-habilidades
-# Mapa de Habilidades
 
 ## Etapa 1: Inventário de Habilidades
 Aqui você vai listar tudo o que sabe fazer. Não se preocupe se parecer simples - tudo pode ser útil!
